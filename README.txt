@@ -1,0 +1,1 @@
+To run this program Compile textEditor.java and run it.
